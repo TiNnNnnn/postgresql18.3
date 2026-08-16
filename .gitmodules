@@ -1,0 +1,3 @@
+[submodule "contrib/pgorca"]
+	path = contrib/pgorca
+	url = https://github.com/TiNnNnnn/pgorca.git
