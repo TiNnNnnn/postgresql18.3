@@ -45,7 +45,7 @@ lib*.pc
 /portlock/
 
 log/
-bin/
+/bin/
 .vscode
 .claude
-data/
+/data/
